@@ -1,0 +1,6 @@
+#minimizeButton {
+    -fx-background-color: red;
+    -fx-background-image: url("images/exitBotton.png");
+
+}
+

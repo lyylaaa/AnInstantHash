@@ -1,0 +1,8 @@
+#minimizeButton {
+    -fx-background-image: url("/images/exitBotton.png");
+    -fx-background-color: black;
+}
+
+#lbl_Title{
+    -fx-font-family: "Lucida Console", "Courier New", monospace;
+}
